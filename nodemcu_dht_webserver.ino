@@ -13,8 +13,8 @@
 #include <DHT.h>
 
 // Replace with your network credentials
-const char* ssid = "mnaunifi11";
-const char* password = "714847500";
+const char* ssid = "*";
+const char* password = "*";
 
 #define DHTPIN 5     // Digital pin connected to the DHT sensor
 
